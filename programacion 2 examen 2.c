@@ -29,7 +29,7 @@ int main(){
 
 void crear(){
 	
-        	for(int n = 0; n<1 ;n ++ ){			
+        	for(int n = 0; n<5 ;n ++ ){			
  			printf("________________\n");
             printf("ingresar nombre de la persona %i\n",n+1);
 			scanf("%s", &persona[n].nombre);
